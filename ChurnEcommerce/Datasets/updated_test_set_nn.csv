@@ -1,0 +1,1025 @@
+PreferredLoginDevice,PreferredPaymentMode,Gender,PreferedOrderCat,SatisfactionScore,Complain,CouponUsed,OrderCount,CashbackAmount,Churn,prediction_nn
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,5.0,8.0,178.77,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,1,0.0,1.0,154.41,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,3,0,2.0,2.0,192.12,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,2,0,0.0,1.0,157.75,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,1,5.0,5.0,174.06,0,0
+Mobile Phone,UPI,Female,Laptop & Accessory,3,0,1.0,3.0,173.09,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,4.0,8.0,224.24,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,1,0,0.0,5.0,154.68,0,0
+Phone,Debit Card,Female,Mobile Phone,4,0,1.0,1.0,139.31,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,4.0,153.09,0,0
+Phone,Debit Card,Male,Mobile,1,0,1.0,10.0,132.1,0,0
+Phone,Credit Card,Male,Mobile Phone,4,0,1.0,2.0,146.77,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,0.0,1.0,199.36,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,0,1.0,2.0,161.69,0,0
+Mobile Phone,Credit Card,Female,Others,3,1,5.0,14.0,312.4,0,0
+Phone,Debit Card,Female,Laptop & Accessory,3,1,0.0,1.0,146.63,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,4.0,7.0,172.17,0,0
+Computer,Debit Card,Female,Laptop & Accessory,4,0,2.0,2.0,181.74,0,0
+Mobile Phone,Debit Card,Female,Fashion,5,1,0.0,1.0,214.16000000000005,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,2.0,3.0,184.33,0,0
+Mobile Phone,UPI,Male,Others,2,0,2.0,2.0,317.02,0,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,0.0,2.0,142.4,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,0,0.0,3.0,159.06,0,0
+Phone,Debit Card,Male,Mobile Phone,1,0,2.0,2.0,145.75,0,0
+Computer,UPI,Male,Laptop & Accessory,5,0,0.0,1.0,153.32,0,0
+Computer,Debit Card,Female,Mobile,4,0,1.0,1.0,123.32,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,0,1.0,2.0,175.7,0,0
+Computer,Debit Card,Male,Laptop & Accessory,4,0,1.0,2.0,179.91,0,0
+Mobile Phone,Credit Card,Male,Others,3,0,1.0,2.0,312.11,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,0,1.0,2.0,177.04,0,0
+Computer,UPI,Male,Laptop & Accessory,1,1,2.0,2.0,182.43,0,0
+Mobile Phone,Credit Card,Female,Fashion,5,1,1.0,1.0,219.16000000000005,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,198.24,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,169.78,0,0
+Phone,COD,Male,Mobile,4,0,1.0,1.0,135.37,0,0
+Phone,UPI,Male,Mobile,5,0,1.0,1.0,129.56,1,0
+Phone,UPI,Female,Mobile Phone,4,0,1.0,2.0,146.87,0,0
+Phone,UPI,Male,Mobile Phone,1,0,1.0,1.0,137.37,0,0
+Phone,COD,Male,Mobile Phone,1,1,1.0,1.0,148.21,0,1
+Computer,E wallet,Female,Fashion,5,0,14.0,14.0,227.66,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,5.0,12.0,174.07,0,0
+Computer,UPI,Female,Laptop & Accessory,3,0,1.0,2.0,165.11,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,2,1,1.0,1.0,168.77,0,0
+Phone,Debit Card,Female,Mobile,5,0,0.0,1.0,126.19,0,0
+Phone,CC,Female,Mobile,4,0,0.0,1.0,123.7,0,0
+Phone,Debit Card,Female,Mobile,4,0,1.0,1.0,132.94,0,0
+Phone,Debit Card,Female,Mobile Phone,5,0,2.0,2.0,148.41,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,6.0,8.0,224.24,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,1,1.0,1.0,152.31,0,0
+Computer,Debit Card,Female,Mobile Phone,3,0,2.0,7.0,140.84,1,0
+Phone,Debit Card,Female,Mobile,1,0,0.0,1.0,128.35,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,1,2.0,2.0,190.82,0,0
+Phone,Credit Card,Male,Mobile Phone,3,0,2.0,2.0,143.82,1,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,4,0,1.0,5.0,156.77,0,0
+Mobile Phone,Cash on Delivery,Female,Fashion,3,0,2.0,2.0,195.94,0,0
+Computer,Debit Card,Male,Mobile Phone,1,0,2.0,2.0,161.88,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,0,0.0,1.0,206.48,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,2.0,2.0,173.77,0,0
+Computer,Credit Card,Female,Laptop & Accessory,1,0,1.0,2.0,191.67,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,0.0,1.0,163.47,0,0
+Mobile Phone,COD,Male,Fashion,4,0,0.0,1.0,180.95,0,0
+Computer,E wallet,Female,Fashion,1,1,4.0,5.0,228.77,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,5,0,1.0,2.0,150.76,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,1,1.0,1.0,154.1,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,2,1,0.0,1.0,152.2,0,0
+Phone,CC,Female,Mobile,3,0,0.0,1.0,121.87,0,0
+Phone,Debit Card,Female,Mobile,5,1,1.0,1.0,124.04,1,0
+Mobile Phone,Credit Card,Male,Mobile Phone,5,0,2.0,2.0,165.31,1,0
+Computer,Debit Card,Female,Others,5,1,1.0,2.0,311.65,0,0
+Computer,COD,Male,Mobile Phone,5,0,2.0,2.0,135.91,1,1
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,1.0,1.0,171.04,0,0
+Computer,Debit Card,Male,Fashion,2,0,1.0,2.0,231.5,1,0
+Computer,CC,Female,Mobile Phone,4,1,0.0,1.0,118.59,1,1
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,2.0,3.0,175.33,0,0
+Computer,COD,Female,Laptop & Accessory,3,0,7.0,9.0,163.23,0,0
+Mobile Phone,Credit Card,Male,Grocery,1,0,1.0,2.0,298.99,0,0
+Phone,CC,Male,Mobile,1,0,0.0,1.0,126.61,0,0
+Computer,Credit Card,Male,Laptop & Accessory,3,1,1.0,4.0,156.79,0,0
+Mobile Phone,Credit Card,Male,Others,4,0,1.0,12.0,298.33,0,0
+Computer,Credit Card,Male,Mobile Phone,2,1,1.0,3.0,150.15,0,0
+Phone,Credit Card,Female,Laptop & Accessory,4,0,1.0,1.0,147.77,1,0
+Mobile Phone,Credit Card,Male,Fashion,3,0,9.0,10.0,200.96,0,0
+Phone,UPI,Female,Mobile,4,0,0.0,1.0,121.87,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,3.0,5.0,167.3,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,2.0,2.0,171.01,0,0
+Computer,Credit Card,Female,Fashion,4,0,0.0,5.0,219.57,0,0
+Computer,UPI,Male,Mobile Phone,5,0,2.0,2.0,154.96,0,0
+Mobile Phone,E wallet,Male,Grocery,3,0,2.0,5.0,299.65,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,0.0,1.0,168.12,0,0
+Mobile Phone,COD,Male,Mobile Phone,4,0,2.0,2.0,160.37,0,0
+Mobile Phone,Debit Card,Male,Fashion,3,1,1.0,2.0,195.82,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,3,0,2.0,2.0,161.9,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,0,2.0,2.0,172.79,0,0
+Phone,Debit Card,Male,Mobile,1,0,0.0,1.0,128.62,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,1,0,1.0,2.0,150.34,0,0
+Mobile Phone,UPI,Female,Laptop & Accessory,1,0,3.0,3.0,157.7,0,0
+Mobile Phone,Debit Card,Male,Mobile,4,0,1.0,1.0,120.08,0,0
+Phone,CC,Male,Mobile,4,0,0.0,1.0,121.41,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,4,1,1.0,4.0,149.63,1,1
+Phone,Credit Card,Male,Mobile Phone,3,0,1.0,2.0,148.05,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,2.0,3.0,170.77,1,0
+Phone,UPI,Female,Laptop & Accessory,3,1,0.0,1.0,149.07,0,0
+Computer,CC,Male,Mobile,3,0,2.0,2.0,126.1,1,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,1.0,2.0,168.73,0,0
+Mobile Phone,Credit Card,Male,Fashion,1,0,0.0,1.0,170.05,0,0
+Mobile Phone,Debit Card,Male,Others,4,0,2.0,7.0,297.17,0,0
+Mobile Phone,UPI,Male,Fashion,3,0,0.0,1.0,202.21,0,0
+Computer,Debit Card,Male,Mobile Phone,2,0,0.0,1.0,137.61,0,0
+Phone,COD,Male,Mobile,3,0,0.0,1.0,124.79,1,0
+Mobile Phone,Credit Card,Female,Mobile Phone,5,1,2.0,3.0,150.87,0,0
+Computer,CC,Male,Mobile,1,0,1.0,2.0,124.0,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,1.0,1.0,162.72,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,1,0.0,1.0,155.62,0,0
+Mobile Phone,Debit Card,Female,Fashion,4,0,3.0,3.0,186.06,0,0
+Computer,E wallet,Male,Laptop & Accessory,2,0,1.0,2.0,174.68,0,0
+Computer,Debit Card,Male,Fashion,3,0,2.0,2.0,223.24,1,0
+Phone,Debit Card,Male,Mobile Phone,5,0,2.0,2.0,148.62,1,0
+Computer,Debit Card,Female,Mobile Phone,4,0,1.0,2.0,145.33,0,0
+Phone,Credit Card,Male,Mobile Phone,1,0,1.0,2.0,135.81,1,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,1,2.0,2.0,179.54,0,0
+Computer,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,159.33,0,0
+Phone,Debit Card,Female,Laptop & Accessory,1,0,1.0,1.0,144.24,0,0
+Computer,Credit Card,Female,Laptop & Accessory,1,0,2.0,2.0,191.53,0,0
+Computer,E wallet,Female,Fashion,3,0,1.0,1.0,187.89,0,0
+Phone,COD,Male,Mobile,4,1,0.0,1.0,130.58,0,1
+Computer,Debit Card,Female,Laptop & Accessory,3,0,1.0,1.0,199.81,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,3.0,3.0,172.35,0,0
+Mobile Phone,UPI,Male,Others,2,0,13.0,13.0,316.41,0,1
+Mobile Phone,Credit Card,Male,Fashion,5,0,5.0,7.0,228.06,1,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,0.0,1.0,163.06,0,0
+Phone,Debit Card,Female,Laptop & Accessory,5,0,7.0,7.0,144.48,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,3,0,2.0,2.0,153.59,0,0
+Computer,Debit Card,Male,Laptop & Accessory,2,0,5.0,5.0,202.25,0,0
+Mobile Phone,Credit Card,Female,Others,2,0,1.0,1.0,295.17,0,0
+Phone,Debit Card,Male,Mobile Phone,5,1,1.0,1.0,135.64,0,1
+Computer,CC,Male,Mobile,3,0,0.0,1.0,120.08,0,0
+Mobile Phone,Debit Card,Female,Fashion,4,1,2.0,14.0,203.33,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,177.06,0,0
+Phone,UPI,Female,Laptop & Accessory,3,1,1.0,1.0,149.07,0,0
+Phone,Credit Card,Male,Laptop & Accessory,5,1,0.0,1.0,142.84,0,0
+Computer,Debit Card,Female,Laptop & Accessory,2,0,8.0,8.0,191.74,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,1,0.0,1.0,154.85,0,0
+Computer,Debit Card,Female,Laptop & Accessory,3,0,1.0,1.0,152.57,0,0
+Phone,UPI,Male,Laptop & Accessory,4,0,4.0,4.0,140.71,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,189.34,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,0,1.0,2.0,174.5,0,0
+Computer,Debit Card,Male,Laptop & Accessory,4,0,2.0,2.0,192.82,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,0.0,1.0,171.04,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,5,0,2.0,2.0,150.76,0,0
+Phone,Debit Card,Male,Mobile,5,0,0.0,1.0,122.89,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,0,1.0,2.0,169.03,0,0
+Mobile Phone,UPI,Male,Laptop & Accessory,5,0,1.0,2.0,189.1,0,0
+Computer,E wallet,Female,Mobile Phone,3,0,1.0,2.0,148.51,1,1
+Mobile Phone,Debit Card,Male,Mobile,4,0,0.0,1.0,120.13,0,0
+Computer,COD,Male,Fashion,5,0,0.0,1.0,187.22,1,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,3.0,5.0,154.6,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,2.0,2.0,224.36,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,5,0,11.0,13.0,155.34,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,0,11.0,11.0,166.46,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,164.34,0,0
+Computer,E wallet,Female,Fashion,4,0,6.0,7.0,200.25,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,1.0,2.0,224.36,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,4,1,3.0,4.0,149.63,1,1
+Mobile Phone,Credit Card,Male,Fashion,1,0,0.0,1.0,208.83,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,3,0,2.0,3.0,150.43,0,0
+Phone,E wallet,Male,Laptop & Accessory,3,1,0.0,4.0,123.06,0,0
+Computer,Credit Card,Female,Laptop & Accessory,2,1,2.0,2.0,169.22,0,0
+Mobile Phone,Credit Card,Male,Fashion,2,0,4.0,4.0,221.13,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,183.1,0,0
+Computer,Credit Card,Male,Mobile Phone,4,1,0.0,1.0,136.17,0,0
+Phone,Credit Card,Male,Mobile Phone,4,1,1.0,2.0,149.08,1,0
+Mobile Phone,Credit Card,Female,Mobile Phone,1,0,2.0,2.0,159.45,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,1.0,2.0,190.0,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,2,0,0.0,1.0,153.96,0,0
+Computer,Debit Card,Female,Laptop & Accessory,3,1,0.0,1.0,163.97,1,0
+Mobile Phone,Credit Card,Female,Fashion,1,1,5.0,5.0,196.43,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,1,1.0,2.0,221.02,0,0
+Mobile Phone,E wallet,Female,Grocery,1,0,3.0,9.0,220.31,0,0
+Phone,UPI,Male,Mobile Phone,1,0,2.0,2.0,144.51,0,0
+Mobile Phone,Credit Card,Female,Fashion,4,0,5.0,8.0,211.21,0,0
+Mobile Phone,Cash on Delivery,Female,Fashion,5,1,8.0,8.0,227.52,0,0
+Mobile Phone,Debit Card,Male,Others,1,0,1.0,1.0,297.4,0,0
+Computer,E wallet,Male,Laptop & Accessory,1,0,1.0,1.0,146.48,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,3.0,4.0,167.85,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,0.0,7.0,155.82,0,0
+Mobile Phone,Debit Card,Female,Others,4,0,0.0,4.0,299.26,0,0
+Computer,Debit Card,Female,Mobile Phone,4,0,1.0,2.0,157.91,0,0
+Computer,Debit Card,Female,Mobile,1,0,0.0,1.0,127.85,1,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,0,1.0,2.0,190.13,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,2,0,1.0,1.0,150.55,0,0
+Computer,UPI,Male,Mobile,1,0,2.0,7.0,125.44,0,0
+Computer,Credit Card,Female,Mobile Phone,4,1,1.0,2.0,143.59,1,1
+Phone,COD,Male,Laptop & Accessory,5,0,1.0,2.0,146.76,0,0
+Mobile Phone,E wallet,Male,Fashion,5,1,2.0,2.0,208.54,1,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,2.0,2.0,170.05,0,0
+Computer,COD,Male,Mobile,3,1,1.0,1.0,124.37,1,1
+Phone,CC,Female,Mobile,5,1,0.0,1.0,123.98,1,0
+Mobile Phone,Credit Card,Male,Grocery,5,1,12.0,12.0,295.68,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,3,0,1.0,2.0,152.05,0,0
+Computer,Credit Card,Female,Laptop & Accessory,1,1,1.0,1.0,146.47,0,0
+Phone,CC,Male,Mobile,3,0,1.0,1.0,128.59,0,0
+Mobile Phone,Debit Card,Female,Fashion,3,0,0.0,1.0,188.23,0,0
+Computer,Debit Card,Male,Grocery,3,1,1.0,3.0,303.61,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,0,1.0,2.0,194.49,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,4,0,0.0,1.0,112.61,1,0
+Phone,Debit Card,Male,Mobile Phone,4,0,1.0,2.0,145.13,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,1.0,1.0,167.55,0,0
+Computer,Credit Card,Male,Mobile Phone,3,1,2.0,2.0,138.15,0,0
+Phone,CC,Male,Mobile,1,1,0.0,1.0,127.25,0,0
+Phone,COD,Female,Mobile Phone,5,0,1.0,2.0,146.09,0,0
+Mobile Phone,E wallet,Female,Fashion,1,1,0.0,1.0,209.34,0,0
+Phone,CC,Male,Mobile,3,1,1.0,1.0,121.27,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,0.0,7.0,151.51,0,0
+Phone,Debit Card,Male,Mobile,4,1,1.0,2.0,126.57,0,1
+Computer,Debit Card,Male,Fashion,5,0,1.0,2.0,200.87,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,159.85,1,0
+Mobile Phone,Debit Card,Female,Fashion,4,0,4.0,4.0,211.06,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,4,0,3.0,3.0,189.26,1,0
+Computer,COD,Female,Mobile Phone,5,0,0.0,1.0,149.68,0,1
+Phone,Credit Card,Male,Mobile Phone,3,0,2.0,2.0,148.77,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,186.2,0,0
+Computer,Debit Card,Female,Fashion,3,0,1.0,2.0,230.02,0,0
+Phone,UPI,Male,Mobile Phone,4,0,2.0,2.0,146.27,0,0
+Phone,COD,Male,Mobile Phone,1,1,4.0,5.0,136.91,1,1
+Phone,Credit Card,Male,Laptop & Accessory,5,0,0.0,1.0,142.33,1,0
+Computer,Credit Card,Male,Mobile Phone,2,1,1.0,2.0,148.26,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,1.0,2.0,158.78,0,0
+Phone,Debit Card,Female,Mobile,2,0,1.0,1.0,128.86,0,0
+Computer,COD,Male,Mobile Phone,4,0,2.0,2.0,152.18,0,1
+Phone,Credit Card,Male,Mobile Phone,4,1,2.0,3.0,148.13,1,0
+Phone,Credit Card,Male,Mobile Phone,5,1,2.0,3.0,149.04,1,0
+Phone,Debit Card,Male,Laptop & Accessory,4,0,1.0,1.0,123.48,0,0
+Computer,Debit Card,Female,Mobile Phone,3,0,0.0,1.0,137.55,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,1.0,1.0,163.34,0,0
+Computer,Credit Card,Female,Mobile Phone,3,0,0.0,1.0,147.39,0,0
+Phone,E wallet,Male,Laptop & Accessory,4,0,0.0,1.0,141.89,0,0
+Mobile Phone,Cash on Delivery,Female,Fashion,5,1,7.0,7.0,202.52,0,0
+Computer,UPI,Male,Laptop & Accessory,1,1,2.0,2.0,182.43,0,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,4.0,8.0,134.91,0,0
+Computer,E wallet,Female,Fashion,3,0,1.0,1.0,187.89,0,0
+Mobile Phone,Debit Card,Female,Fashion,3,0,1.0,1.0,197.56,0,0
+Phone,CC,Male,Mobile,1,1,1.0,1.0,124.36,1,0
+Phone,Debit Card,Male,Mobile Phone,3,0,1.0,4.0,142.3,0,0
+Computer,UPI,Female,Fashion,5,0,3.0,7.0,184.12,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,0,1.0,2.0,154.72,0,0
+Computer,CC,Female,Mobile,3,0,1.0,1.0,120.83,0,0
+Phone,Credit Card,Male,Mobile Phone,3,0,2.0,2.0,148.77,1,0
+Phone,Credit Card,Female,Mobile Phone,1,1,1.0,1.0,139.29,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,0.0,1.0,157.68,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,0,0.0,6.0,203.06,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,1.0,4.0,184.14,0,0
+Computer,Credit Card,Female,Fashion,3,0,2.0,2.0,230.27,0,0
+Phone,Credit Card,Male,Mobile Phone,3,1,2.0,2.0,146.27,0,0
+Computer,CC,Female,Mobile,4,0,1.0,3.0,124.4,0,0
+Mobile Phone,Credit Card,Male,Others,5,1,1.0,1.0,298.59,1,0
+Mobile Phone,UPI,Female,Grocery,5,0,1.0,2.0,292.99,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,1,2.0,4.0,176.26,0,0
+Phone,COD,Male,Mobile Phone,2,1,0.0,1.0,148.21,0,1
+Computer,E wallet,Female,Fashion,2,0,3.0,4.0,214.98,0,0
+Mobile Phone,Debit Card,Male,Fashion,3,0,1.0,5.0,206.09,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,4,0,1.0,2.0,166.89,0,0
+Mobile Phone,UPI,Male,Mobile Phone,2,0,2.0,2.0,164.17,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,1,0.0,1.0,160.62,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,3.0,159.14,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,2.0,2.0,173.59,0,0
+Phone,CC,Female,Mobile,5,0,0.0,1.0,125.59,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,165.0,0,0
+Phone,Debit Card,Female,Laptop & Accessory,3,0,1.0,2.0,145.77,1,0
+Phone,Credit Card,Female,Laptop & Accessory,3,1,1.0,1.0,145.91,0,0
+Phone,CC,Female,Laptop & Accessory,3,0,1.0,1.0,134.48,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,152.41,0,0
+Computer,Debit Card,Male,Others,1,0,3.0,5.0,316.61,0,0
+Computer,Credit Card,Female,Mobile Phone,4,0,1.0,2.0,149.68,0,0
+Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,1.0,141.15,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,0,2.0,2.0,185.91,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,1.0,1.0,159.85,0,0
+Mobile Phone,E wallet,Male,Fashion,3,0,1.0,1.0,181.61,1,0
+Computer,Debit Card,Female,Mobile Phone,5,0,2.0,2.0,153.27,0,0
+Mobile Phone,Credit Card,Male,Fashion,1,0,2.0,4.0,221.13,0,0
+Computer,Debit Card,Male,Laptop & Accessory,4,0,1.0,2.0,176.3,0,0
+Computer,Debit Card,Female,Laptop & Accessory,4,0,0.0,1.0,163.97,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,1,1,4.0,8.0,170.37,0,0
+Mobile Phone,Debit Card,Female,Others,5,0,2.0,12.0,320.66,0,0
+Computer,Debit Card,Male,Fashion,5,0,2.0,2.0,212.93,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,0,1.0,1.0,140.0,0,0
+Phone,UPI,Male,Mobile,4,0,1.0,1.0,121.27,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,5,0,2.0,2.0,168.81,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,181.6,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,1,2.0,2.0,154.32,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,0,1.0,2.0,178.46,1,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,181.89,0,0
+Computer,UPI,Male,Laptop & Accessory,1,1,3.0,6.0,157.47,0,1
+Mobile Phone,Debit Card,Male,Fashion,5,1,1.0,5.0,183.21,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,1,1.0,2.0,154.4,1,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,1,2.0,2.0,177.04,0,0
+Phone,CC,Male,Mobile,4,1,1.0,1.0,123.73,1,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,1,0.0,1.0,181.03,0,0
+Computer,Credit Card,Female,Mobile Phone,3,0,4.0,8.0,153.38,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,1,6.0,8.0,186.62,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,2,1,2.0,3.0,151.95,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,5,0,2.0,2.0,158.77,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,1,1.0,1.0,154.54,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,0,2.0,2.0,174.36,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,5.0,9.0,208.81,0,0
+Mobile Phone,Debit Card,Male,Fashion,1,0,2.0,5.0,210.78,0,0
+Phone,Credit Card,Male,Mobile Phone,4,1,2.0,2.0,148.73,1,0
+Mobile Phone,Debit Card,Female,Fashion,5,0,2.0,2.0,224.85,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,1.0,2.0,180.61,0,0
+Computer,COD,Female,Laptop & Accessory,1,0,2.0,2.0,177.38,0,0
+Phone,Debit Card,Male,Mobile,2,0,0.0,1.0,125.0,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,1.0,2.0,155.69,0,0
+Mobile Phone,Cash on Delivery,Male,Others,2,0,1.0,12.0,317.32,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,1,0,5.0,5.0,191.87,0,0
+Computer,Credit Card,Male,Mobile Phone,3,0,1.0,2.0,162.08,0,0
+Phone,CC,Female,Mobile,3,1,0.0,1.0,128.0,1,0
+Computer,Credit Card,Male,Grocery,4,1,3.0,16.0,260.77,0,0
+Phone,CC,Male,Mobile,1,1,0.0,2.0,122.93,1,0
+Phone,CC,Male,Mobile,3,0,1.0,1.0,123.05,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,0,2.0,8.0,169.48,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,1.0,2.0,193.7,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,2.0,2.0,171.49,0,0
+Computer,Debit Card,Male,Mobile Phone,5,1,2.0,2.0,145.42,1,1
+Computer,Debit Card,Male,Laptop & Accessory,1,1,2.0,2.0,140.69,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,4.0,6.0,179.6,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,0,0.0,1.0,199.91,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,0,1.0,2.0,160.29,0,0
+Mobile Phone,Cash on Delivery,Female,Fashion,3,0,7.0,12.0,200.96,0,0
+Computer,E wallet,Female,Laptop & Accessory,3,1,0.0,3.0,146.14,1,1
+Phone,CC,Male,Mobile,5,1,1.0,1.0,123.8,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,193.83,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,1,0.0,1.0,161.42,0,0
+Computer,Debit Card,Male,Mobile Phone,1,1,0.0,2.0,137.22,1,1
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,0.0,1.0,156.61,0,0
+Computer,Credit Card,Male,Fashion,3,1,1.0,3.0,227.09,0,0
+Mobile Phone,E wallet,Female,Fashion,3,1,1.0,14.0,229.47,0,0
+Computer,Credit Card,Male,Grocery,2,0,1.0,3.0,293.85,0,0
+Mobile Phone,Credit Card,Male,Fashion,3,1,1.0,2.0,204.69,0,0
+Phone,Debit Card,Female,Laptop & Accessory,1,1,0.0,1.0,144.87,0,0
+Mobile Phone,Debit Card,Female,Fashion,2,0,2.0,7.0,194.19,0,0
+Computer,Debit Card,Male,Mobile Phone,2,0,2.0,3.0,152.91,0,0
+Phone,COD,Female,Mobile Phone,5,0,1.0,1.0,135.8,0,0
+Phone,COD,Male,Mobile,3,1,3.0,5.0,123.08,0,1
+Computer,Debit Card,Female,Laptop & Accessory,3,1,2.0,2.0,188.97,1,0
+Phone,UPI,Female,Mobile,5,0,6.0,7.0,123.67,0,0
+Phone,COD,Female,Laptop & Accessory,3,1,2.0,2.0,143.17,0,0
+Mobile Phone,COD,Female,Fashion,1,0,1.0,1.0,174.91,0,0
+Phone,UPI,Female,Mobile,3,0,1.0,1.0,129.66,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,0,1.0,2.0,167.94,0,0
+Phone,Debit Card,Female,Mobile,2,0,0.0,1.0,132.8,0,0
+Computer,UPI,Male,Laptop & Accessory,5,0,2.0,2.0,178.32,0,0
+Computer,Debit Card,Female,Mobile,5,0,0.0,1.0,128.27,0,1
+Phone,COD,Female,Mobile,3,0,2.0,2.0,127.42,1,0
+Computer,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,143.74,0,0
+Computer,Debit Card,Male,Mobile Phone,1,1,1.0,1.0,117.02,0,1
+Computer,Debit Card,Female,Laptop & Accessory,5,1,0.0,4.0,159.8,0,0
+Mobile Phone,Credit Card,Female,Others,3,0,4.0,7.0,318.92,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,0,2.0,2.0,182.75,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,2,0,2.0,2.0,151.54,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,5,0,1.0,2.0,162.85,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,184.16,1,0
+Computer,Debit Card,Male,Others,4,1,3.0,12.0,323.47,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,1.0,2.0,179.82,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,0.0,1.0,150.98,0,0
+Mobile Phone,Debit Card,Male,Mobile,4,0,0.0,1.0,120.13,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,4.0,7.0,153.77,0,0
+Phone,Debit Card,Male,Mobile,5,0,0.0,1.0,127.28,0,0
+Computer,UPI,Male,Mobile,4,0,2.0,3.0,125.92,0,0
+Mobile Phone,COD,Male,Mobile Phone,2,0,2.0,2.0,150.64,1,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,2.0,2.0,179.72,0,0
+Phone,Debit Card,Male,Mobile,5,0,0.0,1.0,124.51,0,0
+Phone,Credit Card,Male,Mobile Phone,3,1,1.0,1.0,139.89,1,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,1.0,1.0,160.74,1,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,0,1.0,1.0,156.47,0,0
+Computer,Credit Card,Female,Laptop & Accessory,4,0,0.0,3.0,142.44,0,0
+Phone,Debit Card,Female,Mobile,1,0,0.0,1.0,129.11,0,0
+Phone,Credit Card,Male,Laptop & Accessory,1,0,0.0,3.0,142.85,0,0
+Mobile Phone,Debit Card,Male,Fashion,1,0,1.0,2.0,227.39,0,0
+Mobile Phone,UPI,Male,Mobile,1,0,1.0,1.0,119.51,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,0,1.0,2.0,167.84,1,0
+Mobile Phone,UPI,Male,Others,1,1,1.0,2.0,320.13,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,0,2.0,7.0,153.04,0,0
+Computer,CC,Male,Mobile,5,1,0.0,1.0,131.72,1,1
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,187.32,0,0
+Phone,E wallet,Male,Laptop & Accessory,3,1,1.0,5.0,148.06,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,1.0,2.0,187.44,0,0
+Computer,Debit Card,Male,Fashion,3,0,0.0,1.0,209.2,0,0
+Phone,Debit Card,Female,Mobile,5,0,2.0,5.0,134.23,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,5,0,1.0,2.0,154.6,1,0
+Mobile Phone,Debit Card,Female,Mobile Phone,1,0,4.0,9.0,154.29,0,0
+Mobile Phone,Credit Card,Male,Fashion,3,0,3.0,7.0,182.37,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,2.0,2.0,177.95,0,0
+Computer,Debit Card,Female,Laptop & Accessory,5,0,0.0,1.0,142.86,1,0
+Mobile Phone,E wallet,Male,Fashion,4,0,2.0,2.0,198.51,0,0
+Phone,UPI,Male,Mobile Phone,2,0,1.0,1.0,139.17,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,170.54,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,1,1.0,2.0,183.11,0,0
+Phone,Credit Card,Male,Laptop & Accessory,5,1,0.0,1.0,142.84,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,4,0,2.0,2.0,157.94,0,0
+Computer,Debit Card,Male,Others,3,1,8.0,16.0,315.68,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,5.0,5.0,159.02,0,0
+Phone,UPI,Male,Mobile Phone,3,0,0.0,1.0,136.0,0,0
+Computer,COD,Male,Mobile Phone,3,0,1.0,1.0,138.94,1,0
+Computer,Debit Card,Female,Laptop & Accessory,3,0,4.0,6.0,176.54,0,0
+Computer,Debit Card,Female,Laptop & Accessory,1,0,6.0,9.0,124.06,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,2.0,2.0,183.69,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,0,1.0,1.0,152.53,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,0.0,7.0,152.37,0,0
+Computer,Debit Card,Male,Mobile Phone,2,0,2.0,2.0,154.79,0,0
+Computer,Debit Card,Female,Mobile,4,0,0.0,1.0,120.33,0,0
+Computer,E wallet,Female,Fashion,1,0,3.0,4.0,214.98,0,0
+Computer,E wallet,Male,Laptop & Accessory,3,0,0.0,8.0,145.68,0,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,8.0,8.0,134.91,0,0
+Computer,Debit Card,Male,Laptop & Accessory,2,1,1.0,2.0,193.04,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,0,2.0,2.0,169.2,0,0
+Computer,Credit Card,Male,Mobile Phone,1,0,3.0,3.0,151.1,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,2.0,2.0,166.08,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,3,0,1.0,2.0,160.17,0,0
+Computer,Debit Card,Male,Laptop & Accessory,2,0,1.0,1.0,150.71,0,0
+Computer,Debit Card,Male,Mobile,1,0,2.0,2.0,127.91,0,0
+Computer,Credit Card,Female,Mobile Phone,3,1,1.0,2.0,148.66,1,1
+Phone,Credit Card,Male,Mobile Phone,5,0,0.0,1.0,139.04,1,0
+Phone,COD,Female,Mobile,3,1,1.0,7.0,133.39,1,1
+Phone,CC,Male,Mobile,5,1,1.0,2.0,124.04,1,0
+Mobile Phone,COD,Male,Mobile Phone,3,0,2.0,2.0,149.79,1,0
+Computer,Debit Card,Female,Mobile Phone,3,1,1.0,2.0,153.86,1,1
+Mobile Phone,Debit Card,Male,Fashion,3,0,2.0,6.0,231.09,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,0.0,3.0,159.14,0,0
+Mobile Phone,UPI,Male,Fashion,5,0,1.0,2.0,204.88,0,0
+Mobile Phone,Credit Card,Male,Fashion,4,0,2.0,7.0,207.25,0,0
+Phone,UPI,Female,Mobile Phone,3,0,0.0,1.0,137.02,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,1,3.0,7.0,158.13,1,0
+Computer,E wallet,Male,Mobile,1,0,3.0,5.0,127.93,0,0
+Phone,CC,Male,Mobile,2,1,2.0,2.0,134.64,1,0
+Computer,Debit Card,Female,Mobile,1,0,0.0,2.0,123.42,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,1,0,1.0,2.0,170.07,0,0
+Computer,Credit Card,Male,Grocery,4,0,10.0,14.0,0.0,0,0
+Computer,E wallet,Female,Laptop & Accessory,3,0,1.0,2.0,172.68,0,0
+Mobile Phone,Credit Card,Female,Fashion,3,1,2.0,2.0,202.56,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,2,0,6.0,7.0,171.27,0,0
+Phone,COD,Male,Mobile,1,0,0.0,1.0,126.62,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,1.0,2.0,173.55,1,0
+Phone,UPI,Male,Laptop & Accessory,2,0,7.0,9.0,136.97,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,6.0,11.0,163.77,0,0
+Mobile Phone,UPI,Male,Others,4,1,2.0,2.0,321.36,0,0
+Phone,Debit Card,Male,Mobile,4,1,1.0,1.0,124.72,1,1
+Phone,Credit Card,Female,Mobile Phone,4,0,1.0,2.0,148.7,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,153.47,0,0
+Computer,COD,Male,Mobile Phone,4,0,1.0,2.0,161.92,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,5,0,2.0,4.0,156.96,0,0
+Phone,Debit Card,Female,Laptop & Accessory,3,0,0.0,1.0,137.8,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,0.0,1.0,159.93,0,0
+Mobile Phone,UPI,Male,Mobile Phone,5,0,2.0,2.0,154.56,1,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,1,1.0,9.0,203.47,0,0
+Mobile Phone,E wallet,Male,Fashion,4,1,0.0,1.0,190.94,1,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,152.74,0,0
+Mobile Phone,E wallet,Male,Grocery,2,0,0.0,2.0,218.36,0,0
+Phone,Debit Card,Male,Mobile,2,0,1.0,1.0,129.04,0,0
+Computer,Debit Card,Female,Laptop & Accessory,4,0,2.0,2.0,168.02,0,0
+Phone,CC,Male,Mobile,4,0,1.0,1.0,127.66,0,0
+Phone,Debit Card,Female,Mobile,2,1,0.0,1.0,127.78,1,0
+Mobile Phone,E wallet,Female,Others,1,0,3.0,6.0,298.45,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,1.0,1.0,163.88,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,5,1,1.0,3.0,150.87,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,5,1,1.0,1.0,116.01,1,1
+Computer,Credit Card,Female,Laptop & Accessory,1,1,1.0,2.0,178.29,0,0
+Computer,Debit Card,Female,Mobile Phone,3,0,2.0,2.0,162.55,0,0
+Mobile Phone,E wallet,Female,Others,2,0,6.0,7.0,323.45,1,0
+Computer,COD,Male,Laptop & Accessory,3,1,1.0,1.0,167.96,1,0
+Mobile Phone,Debit Card,Male,Others,5,0,2.0,14.0,291.9,0,0
+Phone,Debit Card,Male,Mobile,5,0,1.0,1.0,122.89,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,0.0,1.0,167.35,1,0
+Phone,Debit Card,Male,Mobile,2,1,1.0,1.0,128.18,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,1,2.0,2.0,161.33,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,1,2.0,2.0,175.21,0,0
+Mobile Phone,UPI,Female,Mobile Phone,2,0,2.0,2.0,151.93,1,0
+Mobile Phone,Cash on Delivery,Male,Fashion,1,1,1.0,1.0,193.8,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,2.0,180.62,0,0
+Computer,Debit Card,Female,Laptop & Accessory,4,0,1.0,2.0,181.74,0,0
+Phone,Credit Card,Male,Mobile Phone,3,1,1.0,2.0,146.27,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,2.0,2.0,166.15,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,188.88,0,0
+Mobile Phone,E wallet,Male,Fashion,5,0,1.0,1.0,183.92,0,0
+Computer,Debit Card,Female,Mobile Phone,5,1,1.0,2.0,161.46,1,1
+Phone,Credit Card,Female,Mobile Phone,4,0,0.0,1.0,138.38,0,0
+Computer,E wallet,Female,Laptop & Accessory,4,0,1.0,1.0,151.47,0,0
+Mobile Phone,E wallet,Male,Mobile Phone,3,1,2.0,2.0,151.83,1,1
+Computer,CC,Male,Mobile,3,0,1.0,1.0,119.04,1,0
+Phone,Debit Card,Female,Mobile,5,1,0.0,1.0,123.19,1,1
+Phone,UPI,Male,Mobile,4,0,1.0,1.0,121.43,0,0
+Phone,CC,Male,Mobile,2,0,0.0,1.0,127.13,0,0
+Phone,Credit Card,Male,Mobile Phone,1,0,1.0,1.0,144.2,0,0
+Computer,UPI,Male,Laptop & Accessory,1,1,1.0,1.0,157.43,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,2.0,150.33,0,0
+Phone,Debit Card,Female,Mobile,3,0,2.0,5.0,129.42,0,0
+Phone,CC,Female,Laptop & Accessory,4,1,0.0,1.0,123.72,0,0
+Phone,Credit Card,Male,Mobile Phone,4,0,0.0,1.0,137.48,0,0
+Computer,E wallet,Male,Laptop & Accessory,4,0,8.0,8.0,218.55,1,0
+Phone,Debit Card,Male,Mobile Phone,4,0,1.0,2.0,145.13,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,2.0,2.0,193.42,0,0
+Computer,Credit Card,Female,Mobile Phone,3,0,6.0,7.0,140.25,0,0
+Phone,UPI,Male,Mobile Phone,4,1,2.0,2.0,146.21,1,1
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,2.0,2.0,196.04,0,0
+Phone,Debit Card,Male,Mobile,3,0,0.0,1.0,120.64,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,3.0,8.0,179.73,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,1.0,2.0,192.35,1,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,145.34,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,5.0,7.0,154.29,0,0
+Phone,Debit Card,Male,Mobile,5,1,5.0,6.0,122.35,0,1
+Mobile Phone,UPI,Male,Mobile Phone,4,1,2.0,2.0,162.43,1,0
+Mobile Phone,COD,Male,Laptop & Accessory,1,0,2.0,2.0,167.62,0,0
+Phone,UPI,Female,Mobile Phone,4,0,1.0,2.0,146.87,0,0
+Phone,UPI,Male,Fashion,3,0,1.0,1.0,145.0,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,1.0,2.0,196.04,0,0
+Phone,Debit Card,Female,Mobile,4,1,0.0,1.0,124.78,0,0
+Computer,Debit Card,Male,Grocery,3,0,6.0,14.0,229.36,1,0
+Mobile Phone,Debit Card,Female,Mobile Phone,1,1,3.0,3.0,156.95,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,0,1.0,1.0,206.48,0,0
+Computer,COD,Male,Laptop & Accessory,3,0,3.0,8.0,175.63,0,0
+Mobile Phone,Credit Card,Male,Fashion,2,0,7.0,9.0,204.0,1,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,0.0,1.0,154.7,0,0
+Mobile Phone,E wallet,Male,Fashion,3,1,1.0,2.0,208.8,0,0
+Phone,COD,Male,Mobile Phone,5,0,2.0,2.0,148.22,0,0
+Computer,Debit Card,Female,Mobile Phone,1,0,1.0,3.0,148.42,0,0
+Phone,Credit Card,Female,Laptop & Accessory,4,1,4.0,10.0,145.99,1,0
+Computer,E wallet,Female,Fashion,5,0,3.0,3.0,221.37,0,0
+Computer,Debit Card,Male,Others,3,1,1.0,2.0,316.97,0,0
+Phone,Credit Card,Male,Mobile Phone,1,1,2.0,2.0,149.36,1,0
+Phone,Debit Card,Female,Mobile,1,0,1.0,8.0,129.29,0,0
+Computer,Debit Card,Male,Fashion,5,0,1.0,2.0,200.87,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,1.0,2.0,182.14,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,0.0,1.0,156.89,0,0
+Mobile Phone,Debit Card,Male,Fashion,3,0,1.0,4.0,209.99,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,1.0,1.0,155.62,0,0
+Computer,CC,Female,Mobile,2,0,1.0,1.0,121.53,0,0
+Mobile Phone,Credit Card,Male,Others,4,0,13.0,13.0,323.33,0,0
+Computer,Debit Card,Male,Mobile,1,0,0.0,3.0,131.62,0,0
+Computer,Debit Card,Male,Laptop & Accessory,2,0,1.0,1.0,199.98,0,0
+Mobile Phone,COD,Male,Fashion,4,0,0.0,1.0,192.5,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,2.0,3.0,183.78,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,1.0,2.0,158.78,0,0
+Computer,Credit Card,Female,Grocery,3,1,0.0,1.0,229.65,0,0
+Phone,Credit Card,Female,Laptop & Accessory,3,1,1.0,1.0,145.91,0,0
+Computer,E wallet,Female,Laptop & Accessory,5,0,2.0,2.0,191.96,1,0
+Computer,CC,Male,Mobile,3,0,0.0,1.0,120.08,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,0.0,1.0,162.09,0,0
+Mobile Phone,COD,Male,Mobile Phone,1,0,1.0,2.0,150.64,1,0
+Phone,Credit Card,Male,Mobile Phone,5,0,0.0,1.0,139.55,0,0
+Computer,Debit Card,Male,Laptop & Accessory,4,0,1.0,2.0,169.9,0,0
+Computer,Debit Card,Male,Mobile Phone,1,0,2.0,3.0,152.06,0,0
+Computer,COD,Male,Mobile Phone,3,0,2.0,4.0,154.36,0,0
+Phone,Debit Card,Male,Mobile,1,0,0.0,1.0,125.87,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,186.2,0,0
+Phone,COD,Male,Mobile,1,1,0.0,1.0,123.4,1,1
+Mobile Phone,Credit Card,Male,Mobile Phone,3,0,1.0,2.0,161.9,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,4,1,1.0,2.0,165.78,0,1
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,1,0.0,1.0,160.62,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,0,1.0,2.0,217.04,0,0
+Mobile Phone,UPI,Female,Laptop & Accessory,3,0,2.0,2.0,161.6,0,0
+Mobile Phone,Credit Card,Female,Others,1,1,2.0,2.0,315.49,0,0
+Mobile Phone,UPI,Female,Mobile Phone,1,0,2.0,2.0,158.12,0,0
+Computer,Debit Card,Male,Mobile,2,0,2.0,2.0,135.51,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,155.33,0,0
+Computer,Credit Card,Male,Fashion,4,0,1.0,7.0,188.34,0,0
+Phone,Credit Card,Female,Mobile Phone,1,1,1.0,3.0,148.42,0,0
+Computer,Credit Card,Male,Fashion,4,0,6.0,7.0,188.34,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,4,0,1.0,1.0,168.52,0,0
+Mobile Phone,Debit Card,Female,Fashion,4,0,0.0,2.0,183.76,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,0,0.0,1.0,193.96,0,0
+Computer,Credit Card,Male,Laptop & Accessory,4,0,3.0,11.0,161.51,0,0
+Phone,COD,Male,Mobile,3,0,1.0,1.0,124.79,1,0
+Mobile Phone,UPI,Female,Laptop & Accessory,3,1,2.0,2.0,174.07,0,0
+Computer,Debit Card,Male,Mobile Phone,1,1,2.0,2.0,142.02,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,4,0,2.0,8.0,164.36,0,0
+Computer,Debit Card,Female,Mobile,1,1,1.0,1.0,123.79,0,1
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,0,1.0,2.0,176.71,0,0
+Phone,CC,Female,Mobile,1,0,1.0,1.0,128.71,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,0,6.0,6.0,202.74,0,0
+Phone,Debit Card,Female,Mobile,1,0,1.0,1.0,133.1,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,0,1.0,2.0,193.93,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,4.0,4.0,168.32,0,0
+Mobile Phone,Debit Card,Male,Fashion,2,1,3.0,3.0,203.25,1,0
+Computer,Debit Card,Female,Laptop & Accessory,3,0,1.0,2.0,188.47,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,1,2.0,3.0,147.41,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,1.0,1.0,155.05,0,0
+Computer,E wallet,Female,Fashion,1,0,2.0,3.0,217.08,0,0
+Computer,Debit Card,Male,Grocery,1,1,2.0,5.0,294.59,0,0
+Phone,Debit Card,Male,Mobile,5,1,2.0,6.0,122.35,0,1
+Phone,Debit Card,Female,Mobile Phone,5,1,2.0,2.0,145.74,1,1
+Phone,Credit Card,Female,Laptop & Accessory,4,1,1.0,2.0,148.72,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,4,1,6.0,11.0,152.28,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,213.53,0,0
+Mobile Phone,UPI,Male,Mobile Phone,1,0,2.0,2.0,151.47,0,0
+Computer,Debit Card,Female,Laptop & Accessory,1,1,2.0,3.0,154.67,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,0,3.0,3.0,164.74,0,0
+Computer,UPI,Female,Mobile Phone,1,0,2.0,2.0,146.8,1,1
+Computer,Debit Card,Male,Laptop & Accessory,3,1,2.0,2.0,165.01,0,0
+Computer,UPI,Male,Laptop & Accessory,1,0,2.0,2.0,163.86,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,3,0,2.0,2.0,192.12,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,5.0,5.0,164.86,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,1.0,153.47,0,0
+Mobile Phone,Credit Card,Female,Fashion,1,0,3.0,3.0,176.44,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,1.0,1.0,155.05,0,0
+Computer,Credit Card,Male,Mobile Phone,1,1,2.0,3.0,150.15,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,3,1,3.0,3.0,223.54,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,1.0,2.0,169.78,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,5,1,2.0,3.0,167.57,0,1
+Phone,Debit Card,Female,Mobile Phone,1,0,2.0,2.0,145.61,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,1.0,7.0,155.82,0,0
+Computer,Debit Card,Male,Laptop & Accessory,4,0,0.0,1.0,151.3,0,0
+Phone,CC,Female,Mobile,5,0,1.0,1.0,134.52,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,0,1.0,1.0,199.91,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,1,2.0,2.0,177.38,1,0
+Mobile Phone,Debit Card,Male,Mobile Phone,4,0,2.0,2.0,159.2,0,0
+Phone,Debit Card,Male,Mobile Phone,3,1,0.0,1.0,137.3,1,1
+Mobile Phone,Cash on Delivery,Male,Fashion,5,1,4.0,5.0,220.82,1,0
+Computer,Credit Card,Male,Laptop & Accessory,3,0,2.0,2.0,168.45,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,4,0,2.0,2.0,168.93,0,0
+Computer,Debit Card,Male,Mobile Phone,4,0,2.0,2.0,153.1,0,0
+Computer,Credit Card,Female,Fashion,1,0,5.0,5.0,204.18,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,3,0,3.0,12.0,170.53,0,0
+Phone,Debit Card,Female,Mobile,5,1,1.0,1.0,124.04,1,0
+Phone,CC,Female,Mobile,4,0,0.0,1.0,132.95,0,0
+Phone,Debit Card,Female,Mobile,3,0,0.0,2.0,121.05,0,0
+Computer,Debit Card,Male,Fashion,3,0,1.0,1.0,198.24,1,0
+Phone,E wallet,Male,Mobile,4,0,1.0,1.0,129.83,0,0
+Mobile Phone,E wallet,Male,Others,3,0,1.0,2.0,308.03,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,2.0,3.0,179.84,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,1,7.0,7.0,184.46,1,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,2,1,1.0,2.0,177.2,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,5,0,2.0,3.0,179.86,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,1,2.0,2.0,190.82,0,0
+Phone,Credit Card,Male,Mobile Phone,4,1,1.0,3.0,148.13,1,0
+Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,1.0,141.15,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,1,2.0,3.0,149.61,1,0
+Phone,COD,Male,Mobile Phone,5,0,2.0,2.0,145.8,0,0
+Phone,Credit Card,Male,Mobile Phone,3,1,1.0,1.0,139.89,1,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,3.0,4.0,168.77,0,0
+Computer,Debit Card,Male,Mobile Phone,1,0,1.0,2.0,135.51,0,0
+Computer,COD,Male,Mobile,3,0,3.0,3.0,129.36,0,1
+Mobile Phone,Credit Card,Female,Fashion,1,1,4.0,4.0,171.43,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,0.0,1.0,165.78,0,0
+Phone,CC,Male,Mobile,3,0,0.0,1.0,122.59,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,5,0,5.0,7.0,183.96,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,1.0,177.56,0,0
+Mobile Phone,Credit Card,Female,Others,3,0,5.0,5.0,311.06,0,0
+Computer,CC,Female,Mobile,3,1,4.0,7.0,126.55,1,1
+Mobile Phone,Debit Card,Female,Mobile Phone,1,1,2.0,2.0,150.15,1,0
+Phone,Debit Card,Male,Mobile,3,0,1.0,1.0,124.51,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,0,1.0,2.0,200.47,0,0
+Phone,CC,Female,Laptop & Accessory,4,1,0.0,1.0,123.72,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,4,1,2.0,2.0,207.68,0,0
+Phone,E wallet,Female,Laptop & Accessory,2,1,5.0,7.0,145.37,0,0
+Computer,Credit Card,Female,Fashion,1,0,4.0,4.0,179.18,0,0
+Computer,Credit Card,Male,Laptop & Accessory,5,1,1.0,3.0,147.41,0,0
+Phone,Credit Card,Male,Mobile Phone,1,0,1.0,1.0,139.04,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,2,0,1.0,1.0,154.72,0,0
+Mobile Phone,E wallet,Female,Mobile Phone,3,1,2.0,2.0,153.51,1,1
+Computer,E wallet,Female,Fashion,2,0,2.0,3.0,189.98,0,0
+Phone,Debit Card,Female,Mobile,1,0,0.0,1.0,128.86,0,0
+Phone,Credit Card,Female,Mobile Phone,2,1,1.0,1.0,139.29,0,0
+Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,1.0,147.24,0,0
+Phone,CC,Male,Mobile,1,0,0.0,4.0,127.81,0,0
+Phone,Debit Card,Male,Mobile,3,0,1.0,2.0,123.72,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,5,0,2.0,2.0,164.55,0,0
+Phone,Credit Card,Female,Mobile Phone,5,0,1.0,1.0,139.2,0,0
+Computer,Debit Card,Male,Fashion,2,0,0.0,1.0,206.5,1,0
+Phone,UPI,Male,Laptop & Accessory,4,0,3.0,4.0,140.71,0,0
+Computer,Debit Card,Male,Grocery,5,0,14.0,15.0,304.24,0,0
+Mobile Phone,COD,Male,Laptop & Accessory,3,0,1.0,1.0,183.46,0,0
+Computer,Credit Card,Female,Mobile Phone,4,0,1.0,2.0,149.68,0,0
+Mobile Phone,Debit Card,Male,Fashion,1,0,2.0,2.0,203.98,0,0
+Mobile Phone,E wallet,Female,Others,4,1,2.0,2.0,313.24,1,0
+Mobile Phone,UPI,Male,Mobile Phone,5,0,2.0,2.0,154.56,1,0
+Mobile Phone,UPI,Male,Laptop & Accessory,1,0,1.0,2.0,187.74,0,0
+Phone,Debit Card,Male,Mobile Phone,1,1,2.0,2.0,147.75,1,0
+Phone,Credit Card,Female,Mobile Phone,3,0,1.0,3.0,148.77,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,1,2.0,2.0,175.87,0,0
+Phone,UPI,Male,Laptop & Accessory,1,0,1.0,2.0,139.02,0,0
+Computer,Credit Card,Female,Mobile Phone,1,0,0.0,5.0,136.73,0,0
+Phone,Credit Card,Female,Mobile Phone,4,0,2.0,2.0,139.83,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,3.0,7.0,153.77,0,0
+Mobile Phone,Credit Card,Female,Fashion,1,0,7.0,15.0,203.12,1,0
+Computer,COD,Male,Mobile Phone,5,1,4.0,4.0,148.07,1,1
+Computer,UPI,Male,Laptop & Accessory,3,0,1.0,1.0,139.75,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,1,0,1.0,2.0,160.39,0,0
+Mobile Phone,Cash on Delivery,Male,Laptop & Accessory,2,0,2.0,2.0,198.79,0,0
+Phone,Debit Card,Female,Mobile Phone,1,0,2.0,3.0,147.88,0,0
+Mobile Phone,COD,Female,Mobile Phone,3,0,2.0,2.0,150.85,0,0
+Computer,E wallet,Male,Laptop & Accessory,2,1,2.0,2.0,178.04,1,1
+Mobile Phone,COD,Male,Fashion,4,0,1.0,1.0,180.95,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,4,0,2.0,2.0,153.04,0,0
+Phone,COD,Male,Mobile Phone,3,0,7.0,10.0,148.39,1,1
+Mobile Phone,Debit Card,Female,Mobile Phone,4,1,1.0,2.0,149.78,0,1
+Phone,Credit Card,Female,Laptop & Accessory,5,0,3.0,3.0,143.06,0,0
+Mobile Phone,COD,Female,Mobile Phone,5,0,1.0,2.0,160.8,0,0
+Mobile Phone,COD,Male,Laptop & Accessory,2,0,1.0,2.0,167.62,0,0
+Mobile Phone,UPI,Male,Others,1,0,1.0,1.0,292.02,0,0
+Phone,Debit Card,Male,Mobile,2,0,6.0,8.0,126.91,0,0
+Computer,Debit Card,Male,Others,3,1,2.0,16.0,315.68,0,0
+Computer,Debit Card,Female,Mobile Phone,2,0,2.0,2.0,150.53,0,0
+Computer,CC,Female,Mobile,3,0,3.0,7.0,128.38,0,0
+Computer,Debit Card,Male,Mobile,1,0,0.0,1.0,129.79,0,0
+Mobile Phone,Debit Card,Female,Fashion,4,0,5.0,6.0,219.96,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,0,2.0,2.0,178.24,1,0
+Computer,Debit Card,Male,Laptop & Accessory,1,1,2.0,3.0,165.69,0,0
+Mobile Phone,Debit Card,Female,Fashion,3,1,1.0,2.0,203.61,0,0
+Computer,Debit Card,Male,Fashion,1,0,3.0,3.0,218.62,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,2,0,2.0,2.0,217.04,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,1,1.0,1.0,152.04,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,1,0,1.0,2.0,152.82,0,0
+Computer,Debit Card,Male,Mobile Phone,3,1,1.0,2.0,156.61,1,1
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,2.0,2.0,159.85,1,0
+Phone,UPI,Male,Mobile,4,1,1.0,1.0,121.21,1,1
+Mobile Phone,Debit Card,Male,Fashion,1,0,1.0,2.0,197.6,0,0
+Phone,Debit Card,Female,Mobile,4,0,1.0,1.0,122.1,1,0
+Phone,E wallet,Male,Laptop & Accessory,4,1,0.0,1.0,140.78,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,7.0,7.0,154.73,0,0
+Computer,COD,Male,Mobile Phone,3,0,0.0,1.0,138.94,1,0
+Phone,Debit Card,Female,Laptop & Accessory,2,1,0.0,1.0,144.87,0,0
+Computer,Debit Card,Female,Mobile,2,1,1.0,1.0,129.26,1,1
+Mobile Phone,COD,Female,Fashion,2,0,1.0,1.0,174.91,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,1,1.0,2.0,186.2,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,3,1,1.0,3.0,223.54,1,0
+Phone,Debit Card,Male,Mobile,3,0,1.0,1.0,125.17,0,0
+Phone,Debit Card,Male,Mobile,1,0,0.0,1.0,124.06,0,0
+Phone,Debit Card,Female,Mobile,5,1,4.0,4.0,127.82,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,1,1.0,1.0,165.45,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,1,1.0,2.0,171.63,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,184.15,0,0
+Computer,Debit Card,Male,Fashion,5,0,0.0,1.0,187.93,0,0
+Mobile Phone,E wallet,Female,Mobile Phone,4,1,1.0,2.0,156.4,1,1
+Mobile Phone,UPI,Male,Laptop & Accessory,1,0,2.0,2.0,192.81,0,0
+Mobile Phone,Credit Card,Female,Fashion,4,0,0.0,1.0,176.55,0,0
+Computer,Credit Card,Male,Laptop & Accessory,4,1,7.0,7.0,188.85,0,0
+Mobile Phone,COD,Male,Laptop & Accessory,4,0,7.0,8.0,169.85,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,4,0,4.0,5.0,153.37,0,0
+Phone,Debit Card,Male,Mobile,3,0,1.0,1.0,126.93,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,2.0,178.73,0,0
+Phone,Debit Card,Male,Mobile,2,1,1.0,2.0,126.95,0,0
+Mobile Phone,E wallet,Female,Mobile Phone,3,1,1.0,2.0,153.51,1,1
+Phone,Debit Card,Male,Mobile,3,0,1.0,1.0,122.93,1,0
+Mobile Phone,Cash on Delivery,Female,Grocery,4,0,7.0,9.0,292.04,0,0
+Mobile Phone,COD,Male,Mobile Phone,4,0,1.0,2.0,150.59,0,0
+Computer,UPI,Male,Laptop & Accessory,5,0,1.0,1.0,153.32,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,1,1,5.0,8.0,183.28,1,1
+Mobile Phone,Credit Card,Male,Mobile Phone,3,1,0.0,1.0,110.09,1,0
+Phone,Credit Card,Female,Laptop & Accessory,4,1,2.0,10.0,145.99,1,0
+Computer,Debit Card,Female,Fashion,4,0,3.0,4.0,174.46,1,0
+Mobile Phone,Credit Card,Female,Mobile Phone,3,1,1.0,2.0,153.0,1,0
+Mobile Phone,UPI,Female,Laptop & Accessory,4,0,3.0,3.0,163.89,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,6.0,8.0,179.29,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,0,0.0,1.0,150.7,0,0
+Computer,UPI,Female,Mobile,3,1,1.0,1.0,128.14,0,1
+Phone,CC,Male,Mobile,2,0,1.0,1.0,120.7,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,2.0,2.0,184.85,0,0
+Computer,Debit Card,Male,Mobile Phone,2,1,1.0,1.0,111.18,1,1
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,1,0.0,1.0,152.31,0,0
+Computer,UPI,Male,Laptop & Accessory,3,0,1.0,1.0,147.07,1,0
+Phone,Credit Card,Male,Mobile Phone,5,0,1.0,1.0,140.31,1,0
+Mobile Phone,E wallet,Male,Others,1,0,1.0,3.0,320.86,0,0
+Computer,Credit Card,Female,Laptop & Accessory,2,1,2.0,2.0,171.47,0,0
+Computer,Credit Card,Male,Mobile Phone,1,1,2.0,2.0,174.3,0,0
+Phone,CC,Male,Mobile,2,1,0.0,1.0,124.36,1,0
+Mobile Phone,Credit Card,Female,Mobile Phone,5,1,8.0,8.0,150.93,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,5,0,3.0,3.0,179.05,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,2.0,190.49,0,0
+Mobile Phone,E wallet,Female,Fashion,1,0,1.0,8.0,201.54,1,0
+Mobile Phone,Debit Card,Male,Mobile Phone,1,0,2.0,2.0,151.9,0,0
+Computer,CC,Male,Mobile,5,1,1.0,1.0,123.21,1,1
+Computer,CC,Male,Mobile,5,0,1.0,1.0,125.61,1,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,1.0,3.0,153.09,0,0
+Computer,Debit Card,Female,Mobile Phone,4,1,1.0,8.0,145.22,1,1
+Computer,E wallet,Female,Mobile,3,0,0.0,1.0,123.51,1,1
+Mobile Phone,E wallet,Female,Laptop & Accessory,4,1,0.0,1.0,192.78,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,4,0,2.0,2.0,157.95,0,0
+Phone,Debit Card,Male,Mobile Phone,3,0,2.0,2.0,147.93,1,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,4,1,2.0,2.0,199.07,1,1
+Computer,E wallet,Male,Laptop & Accessory,1,0,2.0,2.0,171.82,0,0
+Mobile Phone,Cash on Delivery,Male,Fashion,2,0,5.0,12.0,228.22,0,0
+Phone,Debit Card,Female,Mobile Phone,3,0,2.0,2.0,147.74,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,4,0,2.0,2.0,163.38,0,0
+Phone,Debit Card,Female,Mobile,3,0,0.0,2.0,125.06,0,0
+Mobile Phone,UPI,Male,Fashion,3,0,0.0,1.0,202.21,0,0
+Computer,UPI,Male,Mobile Phone,3,0,3.0,3.0,145.93,0,0
+Computer,CC,Male,Mobile,1,0,0.0,1.0,125.8,0,0
+Computer,Debit Card,Male,Mobile Phone,1,0,1.0,3.0,152.06,0,0
+Mobile Phone,UPI,Male,Mobile Phone,1,0,2.0,2.0,151.47,0,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,4.0,11.0,149.07,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,2.0,2.0,147.35,0,0
+Phone,UPI,Male,Laptop & Accessory,5,0,2.0,3.0,147.59,0,0
+Mobile Phone,UPI,Male,Laptop & Accessory,5,1,1.0,2.0,166.94,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,5,0,1.0,2.0,154.86,0,0
+Mobile Phone,Credit Card,Male,Grocery,5,0,6.0,14.0,301.65,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,3,1,1.0,1.0,156.73,0,0
+Computer,COD,Female,Laptop & Accessory,1,0,1.0,2.0,170.23,0,0
+Mobile Phone,Cash on Delivery,Female,Others,5,0,0.0,4.0,299.43,0,0
+Mobile Phone,Credit Card,Female,Others,3,0,6.0,10.0,316.87,0,0
+Computer,Debit Card,Male,Mobile,2,1,0.0,1.0,123.8,1,1
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,2.0,187.2,0,0
+Phone,Debit Card,Male,Laptop & Accessory,4,0,0.0,1.0,143.2,0,0
+Mobile Phone,Credit Card,Male,Grocery,3,0,1.0,2.0,301.39,0,0
+Mobile Phone,UPI,Male,Others,1,0,1.0,1.0,296.13,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,1.0,6.0,178.37,0,0
+Computer,COD,Male,Mobile Phone,3,0,2.0,2.0,154.09,1,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,5.0,10.0,186.25,0,0
+Phone,UPI,Male,Mobile,5,1,0.0,1.0,120.73,1,1
+Mobile Phone,Debit Card,Female,Mobile Phone,2,1,2.0,2.0,150.15,1,0
+Mobile Phone,Debit Card,Male,Fashion,3,0,2.0,2.0,221.1,0,0
+Phone,COD,Male,Mobile,1,0,0.0,1.0,132.29,0,0
+Mobile Phone,Debit Card,Male,Grocery,3,0,3.0,7.0,301.03,0,0
+Phone,CC,Male,Mobile,1,1,1.0,1.0,124.36,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,155.61,0,0
+Mobile Phone,Debit Card,Male,Fashion,2,0,1.0,1.0,215.57,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,1.0,2.0,171.84,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,186.39,0,0
+Computer,Debit Card,Female,Fashion,3,0,1.0,1.0,205.02,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,1.0,1.0,142.49,0,0
+Phone,CC,Male,Mobile,1,0,1.0,1.0,120.45,0,0
+Phone,Debit Card,Male,Laptop & Accessory,3,0,5.0,6.0,134.07,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,5,1,1.0,2.0,172.23,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,1,0.0,1.0,166.94,0,0
+Mobile Phone,Credit Card,Female,Others,5,1,1.0,1.0,297.01,0,0
+Phone,Debit Card,Female,Mobile,3,0,1.0,1.0,123.18,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,0,2.0,4.0,224.9,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,2,0,1.0,1.0,192.04,0,0
+Phone,Debit Card,Male,Mobile Phone,3,0,3.0,3.0,148.72,0,0
+Computer,Debit Card,Female,Laptop & Accessory,3,0,2.0,2.0,141.48,0,0
+Mobile Phone,COD,Male,Mobile Phone,3,1,2.0,2.0,151.96,0,1
+Computer,UPI,Female,Mobile Phone,3,1,1.0,2.0,153.14,0,1
+Computer,Credit Card,Female,Laptop & Accessory,1,1,1.0,2.0,169.22,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,220.47,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,2.0,3.0,183.78,0,0
+Mobile Phone,Credit Card,Male,Fashion,3,0,1.0,1.0,208.45,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,4,0,1.0,1.0,113.93,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,2.0,5.0,179.84,0,0
+Phone,Debit Card,Male,Mobile,3,1,1.0,2.0,124.61,1,0
+Computer,UPI,Male,Laptop & Accessory,3,0,1.0,2.0,164.75,0,0
+Phone,Debit Card,Male,Mobile,1,0,1.0,1.0,120.75,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,2,1,2.0,2.0,153.18,0,0
+Phone,Debit Card,Male,Laptop & Accessory,4,1,0.0,1.0,141.97,0,0
+Mobile Phone,Debit Card,Female,Fashion,1,1,1.0,1.0,188.37,0,0
+Phone,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,148.1,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,0.0,7.0,154.29,0,0
+Computer,Debit Card,Male,Others,4,1,7.0,12.0,323.47,0,0
+Computer,Credit Card,Female,Fashion,5,0,4.0,12.0,174.84,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,3,0,2.0,5.0,167.3,0,0
+Phone,UPI,Male,Mobile Phone,3,0,1.0,2.0,140.55,1,0
+Computer,Debit Card,Female,Mobile Phone,1,0,1.0,1.0,116.11,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,1,6.0,8.0,209.46,1,0
+Computer,Credit Card,Male,Laptop & Accessory,3,0,1.0,1.0,150.94,0,0
+Phone,Debit Card,Male,Mobile,5,0,0.0,1.0,127.28,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,1.0,151.63,0,0
+Phone,UPI,Male,Mobile Phone,4,1,1.0,2.0,146.21,1,1
+Mobile Phone,Cash on Delivery,Female,Fashion,5,1,5.0,7.0,202.52,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,1,1.0,2.0,191.73,1,0
+Computer,Debit Card,Male,Mobile,1,0,1.0,3.0,130.68,0,0
+Mobile Phone,E wallet,Female,Fashion,2,1,0.0,1.0,209.34,0,0
+Phone,Debit Card,Male,Mobile,3,0,0.0,1.0,124.04,0,0
+Computer,Debit Card,Female,Fashion,3,0,7.0,8.0,189.43,0,0
+Mobile Phone,E wallet,Male,Fashion,4,0,4.0,7.0,205.2,0,0
+Computer,CC,Female,Laptop & Accessory,4,1,1.0,1.0,121.33,0,0
+Phone,UPI,Male,Mobile Phone,5,1,2.0,2.0,145.73,1,1
+Phone,E wallet,Female,Laptop & Accessory,1,0,1.0,1.0,140.28,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,3,1,3.0,3.0,151.6,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,1.0,1.0,0.0,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,3,0,1.0,7.0,172.17,0,0
+Computer,Credit Card,Female,Fashion,3,0,3.0,4.0,210.31,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,0.0,1.0,163.88,0,0
+Phone,Debit Card,Male,Mobile Phone,5,0,1.0,2.0,147.38,0,0
+Phone,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,140.63,0,0
+Computer,COD,Male,Laptop & Accessory,3,1,0.0,1.0,167.96,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,3.0,178.01,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,4,1,1.0,2.0,217.78,0,0
+Phone,UPI,Male,Mobile,5,1,2.0,2.0,123.35,1,1
+Phone,Debit Card,Female,Mobile,5,0,1.0,1.0,126.19,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,1.0,8.0,186.72,1,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,0,1.0,2.0,188.84,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,0,5.0,6.0,160.4,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,1,1.0,1.0,161.42,0,0
+Mobile Phone,Credit Card,Male,Fashion,5,1,4.0,5.0,174.06,0,0
+Phone,UPI,Female,Laptop & Accessory,3,0,1.0,1.0,136.6,0,0
+Computer,Debit Card,Female,Mobile Phone,4,0,1.0,2.0,148.32,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,1,1.0,2.0,185.62,0,0
+Mobile Phone,UPI,Male,Fashion,3,0,7.0,8.0,219.34,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,4.0,4.0,164.47,0,0
+Computer,Credit Card,Male,Mobile Phone,2,0,2.0,2.0,142.06,0,0
+Mobile Phone,Debit Card,Male,Grocery,5,0,2.0,2.0,296.59,0,0
+Computer,E wallet,Female,Mobile,4,0,0.0,2.0,127.89,0,1
+Phone,Debit Card,Female,Mobile,5,0,1.0,1.0,133.77,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,154.84,0,0
+Mobile Phone,Credit Card,Female,Fashion,1,0,0.0,1.0,179.78,1,0
+Phone,Debit Card,Male,Mobile Phone,1,0,1.0,2.0,145.44,0,0
+Phone,Debit Card,Female,Mobile Phone,5,0,2.0,2.0,145.66,0,0
+Computer,Debit Card,Male,Laptop & Accessory,5,0,2.0,2.0,173.98,0,0
+Mobile Phone,Credit Card,Male,Mobile Phone,3,0,2.0,4.0,150.19,0,0
+Phone,CC,Female,Mobile,3,0,1.0,1.0,121.87,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,2,0,1.0,2.0,150.14,0,0
+Mobile Phone,UPI,Female,Laptop & Accessory,4,0,1.0,4.0,188.89,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,0,8.0,8.0,169.48,0,0
+Computer,UPI,Male,Laptop & Accessory,3,1,0.0,1.0,147.28,1,0
+Phone,COD,Male,Mobile,2,0,1.0,1.0,132.29,0,0
+Computer,Credit Card,Male,Mobile Phone,3,1,1.0,3.0,152.59,1,0
+Computer,Debit Card,Female,Laptop & Accessory,3,0,1.0,5.0,180.93,0,0
+Phone,Debit Card,Male,Mobile Phone,5,0,1.0,2.0,145.62,0,0
+Mobile Phone,UPI,Female,Laptop & Accessory,4,0,0.0,3.0,163.89,0,0
+Computer,E wallet,Female,Laptop & Accessory,3,0,1.0,1.0,169.32,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,1,0,1.0,2.0,153.86,0,0
+Phone,CC,Male,Laptop & Accessory,3,0,0.0,1.0,130.69,0,0
+Mobile Phone,E wallet,Female,Fashion,5,0,8.0,15.0,204.53,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,0.0,1.0,154.82,0,0
+Mobile Phone,Credit Card,Male,Fashion,3,0,10.0,13.0,211.33,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,2,0,1.0,2.0,186.8,0,0
+Computer,E wallet,Male,Mobile Phone,4,1,2.0,2.0,143.78,1,1
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,1,2.0,2.0,190.83,0,0
+Computer,COD,Female,Mobile Phone,5,0,0.0,1.0,149.68,0,1
+Mobile Phone,Debit Card,Male,Mobile Phone,1,0,1.0,2.0,152.82,0,0
+Computer,Debit Card,Male,Others,1,0,1.0,1.0,294.31,0,0
+Mobile Phone,UPI,Male,Laptop & Accessory,5,0,3.0,4.0,172.59,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,2.0,2.0,173.98,0,0
+Mobile Phone,Credit Card,Female,Mobile Phone,2,0,2.0,2.0,150.34,0,0
+Mobile Phone,UPI,Female,Mobile Phone,3,0,2.0,2.0,162.02,0,0
+Computer,Credit Card,Female,Laptop & Accessory,3,1,1.0,1.0,146.95,0,0
+Computer,Debit Card,Female,Fashion,5,0,0.0,1.0,217.13,0,0
+Computer,CC,Male,Mobile,3,1,0.0,1.0,121.54,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,0,2.0,2.0,176.21,0,0
+Phone,Debit Card,Male,Mobile Phone,2,0,1.0,1.0,146.8,0,0
+Computer,Debit Card,Female,Mobile,4,0,0.0,1.0,131.8,0,0
+Mobile Phone,E wallet,Male,Fashion,4,0,3.0,6.0,180.2,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,5,0,2.0,2.0,167.56,0,0
+Computer,Debit Card,Male,Mobile Phone,1,0,2.0,2.0,148.14,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,1,0,2.0,2.0,158.1,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,1,1.0,1.0,188.47,0,0
+Phone,Debit Card,Male,Mobile,1,0,0.0,1.0,135.39,0,0
+Mobile Phone,UPI,Male,Others,1,0,2.0,2.0,321.13,0,0
+Phone,Debit Card,Female,Laptop & Accessory,4,0,1.0,1.0,147.65,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,0,1.0,2.0,166.98,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,2.0,168.2,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,1.0,1.0,153.73,0,0
+Phone,UPI,Male,Laptop & Accessory,4,0,3.0,3.0,148.05,0,0
+Mobile Phone,Debit Card,Male,Mobile Phone,1,0,2.0,2.0,160.39,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,1.0,1.0,168.15,0,0
+Phone,E wallet,Male,Mobile,4,1,0.0,1.0,124.13,1,1
+Computer,Debit Card,Female,Others,3,0,2.0,6.0,324.73,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,3,0,0.0,1.0,167.55,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,3,1,1.0,1.0,159.16,1,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,1,0,2.0,2.0,177.04,0,0
+Computer,Debit Card,Female,Laptop & Accessory,5,0,1.0,2.0,175.93,0,0
+Mobile Phone,Debit Card,Male,Fashion,4,0,3.0,4.0,204.45,0,0
+Phone,Debit Card,Male,Mobile,4,0,0.0,1.0,132.01,0,0
+Computer,CC,Female,Mobile,1,0,0.0,1.0,121.53,0,0
+Phone,E wallet,Male,Mobile,4,0,0.0,1.0,126.79,1,0
+Mobile Phone,Debit Card,Male,Grocery,1,0,4.0,8.0,295.99,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,5,1,0.0,1.0,165.16,0,0
+Phone,Credit Card,Male,Mobile,3,1,1.0,2.0,135.09,1,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,6.0,6.0,190.67,0,0
+Computer,Debit Card,Female,Mobile,4,0,1.0,1.0,132.91,0,0
+Computer,Debit Card,Female,Mobile Phone,5,1,0.0,1.0,136.46,1,1
+Mobile Phone,Credit Card,Male,Others,5,0,1.0,1.0,294.06,0,0
+Computer,Credit Card,Female,Laptop & Accessory,3,0,0.0,1.0,152.58,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,1,0,2.0,2.0,188.47,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,5,0,4.0,4.0,168.06,0,0
+Mobile Phone,E wallet,Male,Fashion,1,0,5.0,5.0,225.96,1,0
+Phone,COD,Male,Mobile,4,0,0.0,1.0,125.59,0,0
+Phone,Debit Card,Male,Mobile,2,0,1.0,1.0,126.54,0,0
+Computer,Credit Card,Male,Mobile Phone,3,0,1.0,2.0,145.08,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,0,1.0,1.0,157.31,0,0
+Phone,COD,Male,Mobile,4,0,1.0,1.0,135.37,0,0
+Phone,Debit Card,Male,Mobile Phone,3,1,1.0,2.0,145.28,1,1
+Mobile Phone,Debit Card,Female,Fashion,4,1,5.0,14.0,203.33,0,0
+Phone,Debit Card,Male,Laptop & Accessory,4,0,2.0,7.0,144.34,0,0
+Phone,Credit Card,Female,Laptop & Accessory,3,0,2.0,3.0,143.77,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,4,1,5.0,6.0,179.1,0,0
+Phone,COD,Male,Mobile Phone,4,0,2.0,2.0,147.26,0,0
+Computer,Debit Card,Male,Mobile,3,0,1.0,1.0,122.9,0,0
+Computer,Debit Card,Male,Laptop & Accessory,3,1,1.0,1.0,140.01,0,0
+Computer,Credit Card,Male,Laptop & Accessory,1,0,1.0,2.0,182.62,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,3,1,2.0,2.0,165.81,0,0
+Mobile Phone,Credit Card,Female,Others,2,0,2.0,2.0,320.17,0,0
+Mobile Phone,Credit Card,Male,Fashion,1,0,1.0,2.0,195.05,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,4,0,8.0,8.0,174.41,1,0
+Phone,CC,Female,Mobile,5,0,1.0,1.0,134.52,0,0
+Mobile Phone,E wallet,Female,Laptop & Accessory,5,1,0.0,1.0,182.24,1,0
+Computer,Credit Card,Female,Laptop & Accessory,1,1,0.0,1.0,144.22,0,0
+Mobile Phone,COD,Female,Laptop & Accessory,2,0,1.0,4.0,166.87,0,0
+Computer,Debit Card,Female,Fashion,3,0,3.0,8.0,189.43,0,0
+Computer,Credit Card,Male,Mobile Phone,3,0,0.0,1.0,137.08,0,0
+Phone,Debit Card,Male,Mobile,5,1,2.0,7.0,125.59,0,1
+Mobile Phone,COD,Female,Laptop & Accessory,4,1,12.0,12.0,177.28,0,0
+Mobile Phone,Debit Card,Male,Fashion,1,1,4.0,4.0,228.25,1,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,3,0,1.0,6.0,161.62,0,0
+Mobile Phone,COD,Male,Fashion,4,0,1.0,1.0,192.5,0,0
+Phone,Credit Card,Female,Mobile Phone,5,0,1.0,1.0,135.91,0,0
+Phone,E wallet,Female,Laptop & Accessory,5,1,1.0,1.0,145.38,0,0
+Mobile Phone,E wallet,Male,Laptop & Accessory,4,1,3.0,3.0,224.07,1,1
+Mobile Phone,COD,Male,Fashion,4,0,3.0,7.0,174.41,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,2,1,1.0,1.0,165.82,0,0
+Mobile Phone,UPI,Male,Mobile Phone,1,0,2.0,2.0,162.37,0,0
+Computer,CC,Male,Mobile,3,1,2.0,2.0,127.59,1,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,6.0,8.0,172.24,0,0
+Phone,CC,Male,Mobile,5,1,1.0,1.0,123.8,0,0
+Computer,Debit Card,Male,Laptop & Accessory,1,0,1.0,2.0,202.79,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,1,1,1.0,2.0,190.83,0,0
+Phone,E wallet,Male,Laptop & Accessory,5,0,1.0,2.0,143.12,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,4,1,3.0,11.0,170.99,1,0
+Mobile Phone,Credit Card,Male,Mobile Phone,1,0,2.0,2.0,164.04,0,0
+Phone,Debit Card,Female,Mobile,3,1,3.0,7.0,123.94,1,1
+Computer,Debit Card,Male,Others,4,1,2.0,11.0,298.47,0,0
+Mobile Phone,Debit Card,Female,Mobile Phone,1,1,1.0,2.0,157.94,0,0
+Computer,Credit Card,Male,Others,4,0,7.0,11.0,307.0,0,0
+Phone,UPI,Female,Mobile,5,0,7.0,7.0,123.67,0,0
+Mobile Phone,Debit Card,Female,Laptop & Accessory,2,0,1.0,1.0,176.25,0,0
+Phone,Debit Card,Female,Mobile,5,1,1.0,1.0,120.74,1,0
+Mobile Phone,Debit Card,Female,Fashion,5,0,7.0,9.0,224.8,0,0
+Mobile Phone,Debit Card,Male,Laptop & Accessory,5,0,0.0,1.0,168.42,0,0
+Mobile Phone,Credit Card,Male,Laptop & Accessory,5,0,1.0,2.0,25.0,0,0
+Computer,CC,Male,Mobile,4,0,0.0,1.0,125.96,1,0
+Phone,Debit Card,Female,Mobile,3,0,1.0,1.0,122.74,0,0
+Mobile Phone,Credit Card,Female,Laptop & Accessory,2,0,1.0,2.0,182.31,0,0
+Phone,Debit Card,Female,Mobile,4,1,1.0,3.0,122.16,1,0
+Phone,Debit Card,Female,Laptop & Accessory,4,0,1.0,1.0,145.05,0,0
+Phone,Debit Card,Male,Mobile,3,0,1.0,1.0,134.85,1,0
+Computer,Credit Card,Male,Mobile Phone,1,0,1.0,1.0,142.58,0,0
+Computer,Debit Card,Male,Mobile Phone,3,0,1.0,2.0,159.33,0,0
+Computer,Credit Card,Male,Fashion,3,0,2.0,2.0,225.48,1,0
